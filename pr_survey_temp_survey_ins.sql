@@ -22,6 +22,6 @@ select
 	date_modified, 
 	current_timestamp, 
 	current_timestamp
-from temp_survey
+from temp_survey;
 
 select * from rpt.survey limit 1

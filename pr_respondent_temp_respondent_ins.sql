@@ -34,6 +34,6 @@ select
 	date_modified,
 	current_timestamp, 
 	current_timestamp
-from temp_respondent
+from temp_respondent;
 
 select * from rpt.respondent limit 1

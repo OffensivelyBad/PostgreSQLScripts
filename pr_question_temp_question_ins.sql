@@ -24,6 +24,6 @@ select
 	subtype,
 	current_timestamp,
 	current_timestamp
-from temp_question
+from temp_question;
 
 select * from rpt.question limit 1

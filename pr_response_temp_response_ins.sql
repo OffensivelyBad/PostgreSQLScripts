@@ -24,6 +24,6 @@ select
 	"text",
 	current_timestamp, 
 	current_timestamp
-from temp_response
+from temp_response;
 
 select * from rpt.response limit 1

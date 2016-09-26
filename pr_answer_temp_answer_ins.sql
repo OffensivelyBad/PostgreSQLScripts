@@ -22,6 +22,6 @@ select
 	visible,
 	current_timestamp, 
 	current_timestamp
-from temp_answer
+from temp_answer;
 
 select * from rpt.answer limit 1
